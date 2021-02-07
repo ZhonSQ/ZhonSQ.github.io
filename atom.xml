@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ZhonSQ.github.io</id>
     <title>ZhonStoreroom—原创coc模组仓库</title>
-    <updated>2021-02-07T15:27:18.253Z</updated>
+    <updated>2021-02-07T15:30:04.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ZhonSQ.github.io"/>
     <link rel="self" href="https://ZhonSQ.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://ZhonSQ.github.io/images/avatar.png</logo>
     <icon>https://ZhonSQ.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, ZhonStoreroom—原创coc模组仓库</rights>
+    <entry>
+        <title type="html"><![CDATA[【梨花落】第一章]]></title>
+        <id>https://ZhonSQ.github.io/li-hua-luo-di-yi-zhang/</id>
+        <link href="https://ZhonSQ.github.io/li-hua-luo-di-yi-zhang/">
+        </link>
+        <updated>2021-02-07T15:27:22.000Z</updated>
+        <content type="html"><![CDATA[<p>小二帮忙把镖车拖进后院后，你们进入了客栈。这个客栈不大，只有一个掌柜，两个小二。</p>
+<p>掌柜对你们并不陌生，看到你们进来后便招呼小二去准备酒食。不一会，酒菜上桌，你们发现给你们端菜的小二有些面生，不过这也是常有的事。</p>
+<p>Pl吃喝完毕准备睡觉前，成武会把pl聚集在镖车旁，安排守夜看镖的任务，他自己排第一班。</p>
+<p>在三更的时候，pl会被先前看到的那个面生小二喊醒，他告诉pl客栈内闯进了一伙黑衣人，后院里镖头正在和他们搏斗。话音刚落，一名黑衣人无声无息地出现在了那名小二的身后。‘噗’地一声，一把银亮的腰刀从小二的胸口穿出，血液飞溅，一些温热的液体沾到了你们脸上。小二的身体失去支撑，摇晃着跪倒在地上，从你们的视角，能看到他衣领下的一片刺青，是一把带着锁链的，深红色的短矛。</p>
+<p>黑衣人微眯着眼，将刀尖对准了你们。</p>
+<p>黑衣人</p>
+<p>力量70 敏捷65 意志70 体质70 外貌50 教育40 体型65 智力60 hp13 san70</p>
+<p>斗殴65 闪避50</p>
+<p>腰刀 1d6附带穿透</p>
+<p>调查员解决战斗赶到后院会发现地上躺着一具黑衣人的尸体，成武正和余下的两个黑衣人缠斗。</p>
+<p>看见你们过来，成武前踏一步，大力挥刀，人随刀动，这势大力沉的斩击逼得两个黑衣人连退三步。腾出了空间后，成武猛力一蹬，将镖车朝着你们的方向踢了过来，大吼道“他们要劫镖，带着货快走！”然后回身挡住黑衣人。</p>
+<p>镖车撞在了墙上，货物滑了出来，倒在你们面前。</p>
+<p>Pl带着货物逃出后，院里的黑衣人会对着带着箱子的pl掷出飞刀，过敏捷，成功则闪过，但飞刀击中箱子，打开箱盖。失败则被飞刀击中，1d3点伤害，并且会受击摔倒，箱子撞在地上，箱盖滑开。</p>
+<p>箱盖滑开后，你们看清了箱内的货物。</p>
+<p>奇怪的是，箱内不是丝绸财物，不是秘密书信，不是走私弩甲。躺在箱内的，是一位身着暗红华服的少女。她的脸色有些苍白，胸口起伏十分微弱，看上去状态有些奇怪。在她身旁还放着一个小匣子，现在也已经滑开，里面装着的东西散落出来，是一瓶深褐色的液体。</p>
+<p>若Pl给少女服下瓶中液体，则少女会苏醒过来。她已经失忆，唯一记得的就是钟纪——镖单上的收货人。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【梨花落】第零章（导入/设定部分）]]></title>
         <id>https://ZhonSQ.github.io/li-hua-luo-dao-ru-she-ding-bu-fen/</id>
@@ -36,7 +60,7 @@
 <p>在太阳下端压上地平线的时候，见路旁出现了一家客栈，这是你们行镖路上经常走的熟店。成武把镖车赶到了客栈前，然后跳下了镖车。</p>
 <p>“下车，今晚在这歇脚。”成武转头对车内的你们说。</p>
 <p>—————————————————————————————————————————————</p>
-<p>——欲知后事如何，且听下回分解。</p>
+<p>欲知后事如何，且听下回分解。</p>
 ]]></content>
     </entry>
 </feed>
